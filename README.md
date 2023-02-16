@@ -1,2 +1,2 @@
-# Simple-Chess-Engine
-This is a simple Chess Engine written in Java.
+# Java-Chess-Engine
+A Chess Engine written in java.
